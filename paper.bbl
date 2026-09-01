@@ -1,0 +1,283 @@
+\begin{thebibliography}{41}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Alvarado {\em et~al.\/}(2025)Alvarado, Teich, Sivak \&
+  Bechhoefer]{alvarado2025optimal}
+{\sc \au{Alvarado, Jos{\'e}}, \au{Teich, Erin}, \au{Sivak, David} \&
+  \au{Bechhoefer, John}} \yr{2025}  \at{Optimal control in soft and active
+  matter}.  \jt{arXiv preprint arXiv:2504.08676} .
+
+\bibitem[Bewley {\em et~al.\/}(2001)Bewley, Moin \& Temam]{bewley2001dns}
+{\sc \au{Bewley, Thomas~R}, \au{Moin, Parviz} \& \au{Temam, Roger}} \yr{2001}
+  \at{Dns-based predictive control of turbulence: an optimal benchmark for
+  feedback algorithms}.  \jt{Journal of Fluid Mechanics}  \bvol{447},
+  \pg{179--225}.
+
+\bibitem[Bingham(1974)]{bingham1974antipodally}
+{\sc \au{Bingham, Christopher}} \yr{1974}  \at{An antipodally symmetric
+  distribution on the sphere}.  \jt{The Annals of Statistics}  \pg{pp.
+  1201--1225}.
+
+\bibitem[Buttinoni {\em et~al.\/}(2013)Buttinoni, Bialk{\'e}, K{\"u}mmel,
+  L{\"o}wen, Bechinger \& Speck]{buttinoni2013dynamical}
+{\sc \au{Buttinoni, Ivo}, \au{Bialk{\'e}, Julian}, \au{K{\"u}mmel, Felix},
+  \au{L{\"o}wen, Hartmut}, \au{Bechinger, Clemens} \& \au{Speck, Thomas}}
+  \yr{2013}  \at{Dynamical clustering and phase separation in suspensions of
+  self-propelled colloidal particles}.  \jt{Physical review letters}
+  \bvol{110}~(23),  \pg{238301}.
+
+\bibitem[Chaubal \& Leal(1998)]{chaubal1998closure}
+{\sc \au{Chaubal, Charu~V} \& \au{Leal, L~Gary}} \yr{1998}  \at{A closure
+  approximation for liquid-crystalline polymer models based on parametric
+  density estimation}.  \jt{Journal of Rheology}  \bvol{42}~(1),
+  \pg{177--201}.
+
+\bibitem[Chung \& Freund(2022)]{chung2022optimization}
+{\sc \au{Chung, Seung~Whan} \& \au{Freund, Jonathan~B}} \yr{2022}  \at{An
+  optimization method for chaotic turbulent flow}.  \jt{Journal of
+  Computational Physics}  \bvol{457},  \pg{111077}.
+
+\bibitem[Cichos {\em et~al.\/}(2020)Cichos, Gustavsson, Mehlig \&
+  Volpe]{cichos2020machine}
+{\sc \au{Cichos, Frank}, \au{Gustavsson, Kristian}, \au{Mehlig, Bernhard} \&
+  \au{Volpe, Giovanni}} \yr{2020}  \at{Machine learning for active matter}.
+  \jt{Nature Machine Intelligence}  \bvol{2}~(2),  \pg{94--103}.
+
+\bibitem[Colen {\em et~al.\/}(2021)Colen, Han, Zhang, Redford, Lemma, Morgan,
+  Ruijgrok, Adkins, Bryant, Dogic {\em et~al.\/}]{colen2021machine}
+{\sc \au{Colen, Jonathan}, \au{Han, Ming}, \au{Zhang, Rui}, \au{Redford,
+  Steven~A}, \au{Lemma, Linnea~M}, \au{Morgan, Link}, \au{Ruijgrok, Paul~V},
+  \au{Adkins, Raymond}, \au{Bryant, Zev}, \au{Dogic, Zvonimir} \& \au{others}}
+  \yr{2021}  \at{Machine learning active-nematic hydrodynamics}.
+  \jt{Proceedings of the National Academy of Sciences}  \bvol{118}~(10),
+  \pg{e2016708118}.
+
+\bibitem[Dombrowski {\em et~al.\/}(2004)Dombrowski, Cisneros, Chatkaew,
+  Goldstein \& Kessler]{dombrowski2004self}
+{\sc \au{Dombrowski, Christopher}, \au{Cisneros, Luis}, \au{Chatkaew, Sunita},
+  \au{Goldstein, Raymond~E} \& \au{Kessler, John~O}} \yr{2004}
+  \at{Self-concentration and large-scale coherence in bacterial dynamics}.
+  \jt{Physical review letters}  \bvol{93}~(9),  \pg{098103}.
+
+\bibitem[Ezhilan {\em et~al.\/}(2013)Ezhilan, Shelley \&
+  Saintillan]{ezhilan2013instabilities}
+{\sc \au{Ezhilan, Barath}, \au{Shelley, Michael~J} \& \au{Saintillan, David}}
+  \yr{2013}  \at{Instabilities and nonlinear dynamics of concentrated active
+  suspensions}.  \jt{Physics of Fluids}  \bvol{25}~(7),  \pg{070607}.
+
+\bibitem[Falk {\em et~al.\/}(2021)Falk, Alizadehyazdi, Jaeger \&
+  Murugan]{falk2021learning}
+{\sc \au{Falk, Martin~J}, \au{Alizadehyazdi, Vahid}, \au{Jaeger, Heinrich} \&
+  \au{Murugan, Arvind}} \yr{2021}  \at{Learning to control active matter}.
+  \jt{Physical Review Research}  \bvol{3}~(3),  \pg{033291}.
+
+\bibitem[Frangipane {\em et~al.\/}(2018)Frangipane, Dell'Arciprete,
+  Petracchini, Maggi, Saglimbeni, Bianchi, Vizsnyiczai, Bernardini \&
+  Di~Leonardo]{frangipane2018dynamic}
+{\sc \au{Frangipane, Giacomo}, \au{Dell'Arciprete, Dario}, \au{Petracchini,
+  Serena}, \au{Maggi, Claudio}, \au{Saglimbeni, Filippo}, \au{Bianchi, Silvio},
+  \au{Vizsnyiczai, Gaszton}, \au{Bernardini, Maria~Lina} \& \au{Di~Leonardo,
+  Roberto}} \yr{2018}  \at{Dynamic density shaping of photokinetic e. coli}.
+  \jt{Elife}  \bvol{7},  \pg{e36608}.
+
+\bibitem[Freund(2023)]{freund2023object}
+{\sc \au{Freund, Jonathan~B}} \yr{2023}  \at{Object transport by a confined
+  active suspension}.  \jt{Journal of Fluid Mechanics}  \bvol{960},  \pg{A16}.
+
+\bibitem[Gao {\em et~al.\/}(2017)Gao, Betterton, Jhang \&
+  Shelley]{gao2017analytical}
+{\sc \au{Gao, Tong}, \au{Betterton, Meredith~D}, \au{Jhang, An-Sheng} \&
+  \au{Shelley, Michael~J}} \yr{2017}  \at{Analytical structure, dynamics, and
+  coarse graining of a kinetic model of an active fluid}.  \jt{Physical Review
+  Fluids}  \bvol{2}~(9),  \pg{093302}.
+
+\bibitem[Gompper {\em et~al.\/}(2020)Gompper, Winkler, Speck, Solon, Nardini,
+  Peruani, L{\"o}wen, Golestanian, Kaupp, Alvarez {\em
+  et~al.\/}]{gompper20202020}
+{\sc \au{Gompper, Gerhard}, \au{Winkler, Roland~G}, \au{Speck, Thomas},
+  \au{Solon, Alexandre}, \au{Nardini, Cesare}, \au{Peruani, Fernando},
+  \au{L{\"o}wen, Hartmut}, \au{Golestanian, Ramin}, \au{Kaupp, U~Benjamin},
+  \au{Alvarez, Luis} \& \au{others}} \yr{2020}  \at{The 2020 motile active
+  matter roadmap}.  \jt{Journal of Physics: Condensed Matter}  \bvol{32}~(19),
+  \pg{193001}.
+
+\bibitem[Kaiser {\em et~al.\/}(2014)Kaiser, Peshkov, Sokolov, Ten~Hagen,
+  L{\"o}wen \& Aranson]{kaiser2014transport}
+{\sc \au{Kaiser, Andreas}, \au{Peshkov, Anton}, \au{Sokolov, Andrey},
+  \au{Ten~Hagen, Borge}, \au{L{\"o}wen, Hartmut} \& \au{Aranson, Igor~S}}
+  \yr{2014}  \at{Transport powered by bacterial turbulence}.  \jt{Physical
+  review letters}  \bvol{112}~(15),  \pg{158101}.
+
+\bibitem[Klein {\em et~al.\/}(2025)Klein, Franco, Sabbir, Deutsch, Kliegman,
+  Selinger, Mitchell \& Beller]{klein2025spontaneous}
+{\sc \au{Klein, Brandon}, \au{Franco, Alejandro J~Soto}, \au{Sabbir, Md
+  Mainul~Hasan}, \au{Deutsch, Matthew~J}, \au{Kliegman, Ross}, \au{Selinger,
+  Robin~LB}, \au{Mitchell, Kevin~A} \& \au{Beller, Daniel~A}} \yr{2025}
+  \at{Spontaneous optimal mixing via defect-vortex coupling in confined active
+  nematics}.  \jt{arXiv preprint arXiv:2503.10880} .
+
+\bibitem[Koumakis {\em et~al.\/}(2013)Koumakis, Lepore, Maggi \&
+  Di~Leonardo]{koumakis2013targeted}
+{\sc \au{Koumakis, N}, \au{Lepore, A}, \au{Maggi, C} \& \au{Di~Leonardo, R}}
+  \yr{2013}  \at{Targeted delivery of colloids by swimming bacteria}.
+  \jt{Nature communications}  \bvol{4}~(1),  \pg{2588}.
+
+\bibitem[Lamtyugina {\em et~al.\/}(2022)Lamtyugina, Qiu, Fodor, Dinner \&
+  Vaikuntanathan]{lamtyugina2022thermodynamic}
+{\sc \au{Lamtyugina, Alexandra}, \au{Qiu, Yuqing}, \au{Fodor, {\'E}tienne},
+  \au{Dinner, Aaron~R} \& \au{Vaikuntanathan, Suriyanarayanan}} \yr{2022}
+  \at{Thermodynamic control of activity patterns in cytoskeletal networks}.
+  \jt{Physical review letters}  \bvol{129}~(12),  \pg{128002}.
+
+\bibitem[Lemma {\em et~al.\/}(2023)Lemma, Varghese, Ross, Thomson, Baskaran \&
+  Dogic]{lemma2023spatio}
+{\sc \au{Lemma, Linnea~M}, \au{Varghese, Minu}, \au{Ross, Tyler~D},
+  \au{Thomson, Matt}, \au{Baskaran, Aparna} \& \au{Dogic, Zvonimir}} \yr{2023}
+  \at{Spatio-temporal patterning of extensile active stresses in
+  microtubule-based active fluids}.  \jt{PNAS nexus}  \bvol{2}~(5),
+  \pg{pgad130}.
+
+\bibitem[Marchetti {\em et~al.\/}(2013)Marchetti, Joanny, Ramaswamy, Liverpool,
+  Prost, Rao \& Simha]{marchetti2013hydrodynamics}
+{\sc \au{Marchetti, M~Cristina}, \au{Joanny, Jean-Fran{\c{c}}ois},
+  \au{Ramaswamy, Sriram}, \au{Liverpool, Tanniemola~B}, \au{Prost, Jacques},
+  \au{Rao, Madan} \& \au{Simha, R~Aditi}} \yr{2013}  \at{Hydrodynamics of soft
+  active matter}.  \jt{Reviews of modern physics}  \bvol{85}~(3),  \pg{1143}.
+
+\bibitem[Massana-Cid {\em et~al.\/}(2022)Massana-Cid, Maggi, Frangipane \&
+  Di~Leonardo]{massana2022rectification}
+{\sc \au{Massana-Cid, Helena}, \au{Maggi, Claudio}, \au{Frangipane, Giacomo} \&
+  \au{Di~Leonardo, Roberto}} \yr{2022}  \at{Rectification and confinement of
+  photokinetic bacteria in an optical feedback loop}.  \jt{Nature
+  Communications}  \bvol{13}~(1),  \pg{2740}.
+
+\bibitem[Needleman \& Dogic(2017)]{needleman2017active}
+{\sc \au{Needleman, Daniel} \& \au{Dogic, Zvonimir}} \yr{2017}  \at{Active
+  matter at the interface between materials science and cell biology}.
+  \jt{Nature reviews materials}  \bvol{2}~(9),  \pg{1--14}.
+
+\bibitem[Norton {\em et~al.\/}(2020)Norton, Grover, Hagan \&
+  Fraden]{norton2020optimal}
+{\sc \au{Norton, Michael~M}, \au{Grover, Piyush}, \au{Hagan, Michael~F} \&
+  \au{Fraden, Seth}} \yr{2020}  \at{Optimal control of active nematics}.
+  \jt{Physical review letters}  \bvol{125}~(17),  \pg{178005}.
+
+\bibitem[Partovifard {\em et~al.\/}(2024)Partovifard, Grawitter \&
+  Stark]{partovifard2024controlling}
+{\sc \au{Partovifard, Arghavan}, \au{Grawitter, Josua} \& \au{Stark, Holger}}
+  \yr{2024}  \at{Controlling active turbulence by activity patterns}.  \jt{Soft
+  Matter}  \bvol{20}~(8),  \pg{1800--1814}.
+
+\bibitem[Quah {\em et~al.\/}(2025)Quah, Takatori \& Rawlings]{quah2025physics}
+{\sc \au{Quah, Titus}, \au{Takatori, Sho~C} \& \au{Rawlings, James~B}}
+  \yr{2025}  \at{Physics-informed neural model predictive control of
+  interacting active brownian particles}.  \jt{arXiv preprint arXiv:2501.18809}
+  .
+
+\bibitem[Saintillan \& Shelley(2008)]{saintillan2008instabilities}
+{\sc \au{Saintillan, David} \& \au{Shelley, Michael~J}} \yr{2008}
+  \at{Instabilities and pattern formation in active particle suspensions:
+  kinetic theory and continuum simulations}.  \jt{Physical Review Letters}
+  \bvol{100}~(17),  \pg{178103}.
+
+\bibitem[Sanchez {\em et~al.\/}(2012)Sanchez, Chen, DeCamp, Heymann \&
+  Dogic]{sanchez2012spontaneous}
+{\sc \au{Sanchez, Tim}, \au{Chen, Daniel~TN}, \au{DeCamp, Stephen~J},
+  \au{Heymann, Michael} \& \au{Dogic, Zvonimir}} \yr{2012}  \at{Spontaneous
+  motion in hierarchically assembled active matter}.  \jt{Nature}
+  \bvol{491}~(7424),  \pg{431--434}.
+
+\bibitem[Saw {\em et~al.\/}(2017)Saw, Doostmohammadi, Nier, Kocgozlu, Thampi,
+  Toyama, Marcq, Lim, Yeomans \& Ladoux]{saw2017topological}
+{\sc \au{Saw, Thuan~Beng}, \au{Doostmohammadi, Amin}, \au{Nier, Vincent},
+  \au{Kocgozlu, Leyla}, \au{Thampi, Sumesh}, \au{Toyama, Yusuke}, \au{Marcq,
+  Philippe}, \au{Lim, Chwee~Teck}, \au{Yeomans, Julia~M} \& \au{Ladoux,
+  Benoit}} \yr{2017}  \at{Topological defects in epithelia govern cell death
+  and extrusion}.  \jt{Nature}  \bvol{544}~(7649),  \pg{212--216}.
+
+\bibitem[Shelley(2016)]{shelley2016dynamics}
+{\sc \au{Shelley, Michael~J}} \yr{2016}  \at{The dynamics of
+  microtubule/motor-protein assemblies in biology and physics}.  \jt{Annual
+  review of fluid mechanics}  \bvol{48},  \pg{487--506}.
+
+\bibitem[Sokolov {\em et~al.\/}(2010)Sokolov, Apodaca, Grzybowski \&
+  Aranson]{sokolov2010swimming}
+{\sc \au{Sokolov, Andrey}, \au{Apodaca, Mario~M}, \au{Grzybowski, Bartosz~A} \&
+  \au{Aranson, Igor~S}} \yr{2010}  \at{Swimming bacteria power microscopic
+  gears}.  \jt{Proceedings of the National Academy of Sciences}
+  \bvol{107}~(3),  \pg{969--974}.
+
+\bibitem[Soriani {\em et~al.\/}(2025)Soriani, Tjhung, Fodor \&
+  Markovich]{soriani2025control}
+{\sc \au{Soriani, Artur}, \au{Tjhung, Elsen}, \au{Fodor, {\'E}tienne} \&
+  \au{Markovich, Tomer}} \yr{2025}  \at{Control of active field theories at
+  minimal dissipation}.  \jt{arXiv preprint arXiv:2504.19285} .
+
+\bibitem[Takatori {\em et~al.\/}(2025)Takatori, Quah \&
+  Rawlings]{takatori2025feedback}
+{\sc \au{Takatori, Sho~C}, \au{Quah, Titus} \& \au{Rawlings, James~B}}
+  \yr{2025}  \at{Feedback control of active matter}.  \jt{Annual Review of
+  Condensed Matter Physics}  \bvol{16}~(1),  \pg{319--341}.
+
+\bibitem[Turiv {\em et~al.\/}(2020)Turiv, Krieger, Babakhanova, Yu,
+  Shiyanovskii, Wei, Kim \& Lavrentovich]{turiv2020topology}
+{\sc \au{Turiv, Taras}, \au{Krieger, Jess}, \au{Babakhanova, Greta}, \au{Yu,
+  Hao}, \au{Shiyanovskii, Sergij~V}, \au{Wei, Qi-Huo}, \au{Kim, Min-Ho} \&
+  \au{Lavrentovich, Oleg~D}} \yr{2020}  \at{Topology control of human
+  fibroblast cells monolayer by liquid crystal elastomer}.  \jt{Science
+  Advances}  \bvol{6}~(20),  \pg{eaaz6485}.
+
+\bibitem[Vishnampet {\em et~al.\/}(2015)Vishnampet, Bodony \&
+  Freund]{vishnampet2015practical}
+{\sc \au{Vishnampet, Ramanathan}, \au{Bodony, Daniel~J} \& \au{Freund,
+  Jonathan~B}} \yr{2015}  \at{A practical discrete-adjoint method for
+  high-fidelity compressible turbulence simulations}.  \jt{Journal of
+  Computational Physics}  \bvol{285},  \pg{173--192}.
+
+\bibitem[Vizsnyiczai {\em et~al.\/}(2017)Vizsnyiczai, Frangipane, Maggi,
+  Saglimbeni, Bianchi \& Di~Leonardo]{vizsnyiczai2017light}
+{\sc \au{Vizsnyiczai, Gaszton}, \au{Frangipane, Giacomo}, \au{Maggi, Claudio},
+  \au{Saglimbeni, Filippo}, \au{Bianchi, Silvio} \& \au{Di~Leonardo, Roberto}}
+  \yr{2017}  \at{Light controlled 3d micromotors powered by bacteria}.
+  \jt{Nature communications}  \bvol{8}~(1),  \pg{15974}.
+
+\bibitem[Walter {\em et~al.\/}(2007)Walter, Greenfield, Bustamante \&
+  Liphardt]{walter2007light}
+{\sc \au{Walter, Jessica~M}, \au{Greenfield, Derek}, \au{Bustamante, Carlos} \&
+  \au{Liphardt, Jan}} \yr{2007}  \at{Light-powering escherichia coli with
+  proteorhodopsin}.  \jt{Proceedings of the National Academy of Sciences}
+  \bvol{104}~(7),  \pg{2408--2412}.
+
+\bibitem[Weady {\em et~al.\/}(2022)Weady, Stein \&
+  Shelley]{weady2022thermodynamically}
+{\sc \au{Weady, Scott}, \au{Stein, David~B} \& \au{Shelley, Michael~J}}
+  \yr{2022}  \at{Thermodynamically consistent coarse-graining of polar active
+  fluids}.  \jt{Physical Review Fluids}  \bvol{7}~(6),  \pg{063301}.
+
+\bibitem[Wei \& Freund(2006)]{wei2006noise}
+{\sc \au{Wei, Mingjun} \& \au{Freund, Jonathan~B}} \yr{2006}  \at{A
+  noise-controlled free shear flow}.  \jt{Journal of Fluid Mechanics}
+  \bvol{546},  \pg{123--152}.
+
+\bibitem[Zhang {\em et~al.\/}(2021)Zhang, Redford, Ruijgrok, Kumar, Mozaffari,
+  Zemsky, Dinner, Vitelli, Bryant, Gardel {\em
+  et~al.\/}]{zhang2021spatiotemporal}
+{\sc \au{Zhang, Rui}, \au{Redford, Steven~A}, \au{Ruijgrok, Paul~V}, \au{Kumar,
+  Nitin}, \au{Mozaffari, Ali}, \au{Zemsky, Sasha}, \au{Dinner, Aaron~R},
+  \au{Vitelli, Vincenzo}, \au{Bryant, Zev}, \au{Gardel, Margaret~L} \&
+  \au{others}} \yr{2021}  \at{Spatiotemporal control of liquid crystal
+  structure and dynamics through activity patterning}.  \jt{Nature materials}
+  \bvol{20}~(6),  \pg{875--882}.
+
+\bibitem[Zhou {\em et~al.\/}(2021)Zhou, Joshi, Liu, Norton, Lemma, Dogic,
+  Hagan, Fraden \& Hong]{zhou2021machine}
+{\sc \au{Zhou, Zhengyang}, \au{Joshi, Chaitanya}, \au{Liu, Ruoshi}, \au{Norton,
+  Michael~M}, \au{Lemma, Linnea}, \au{Dogic, Zvonimir}, \au{Hagan, Michael~F},
+  \au{Fraden, Seth} \& \au{Hong, Pengyu}} \yr{2021}  \at{Machine learning
+  forecasting of active nematics}.  \jt{Soft matter}  \bvol{17}~(3),
+  \pg{738--747}.
+
+\end{thebibliography}
