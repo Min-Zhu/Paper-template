@@ -1,24 +1,27 @@
 \documentclass[aspectratio=169,11pt]{beamer}
 
+\definecolor{beamer@UIUCblue}{RGB}{29,38,57}
+\definecolor{beamer@UIUCorange}{RGB}{215,85,54}
+
 % ---------- Theme & colors ----------
 \usetheme{default}
 \usecolortheme{default}
-\setbeamertemplate{navigation symbols}{} % remove navigation icons
+\setbeamertemplate{navigation symbols}{}
 
-% White background everywhere
 \setbeamercolor{background canvas}{bg=white}
-\setbeamercolor{normal text}{fg=black}
-\setbeamercolor{structure}{fg=black}
-\setbeamercolor{frametitle}{fg=black,bg=white}
-\setbeamercolor{title}{fg=black}
-\setbeamercolor{subtitle}{fg=black}
+\setbeamercolor{normal text}{fg=beamer@UIUCblue}
+\setbeamercolor{structure}{fg=beamer@UIUCblue}
+\setbeamercolor{frametitle}{fg=beamer@UIUCorange,bg=white}
+\setbeamercolor{title}{fg=beamer@UIUCblue}
+\setbeamercolor{subtitle}{fg=beamer@UIUCblue}
 \setbeamercolor{author}{fg=black}
 \setbeamercolor{date}{fg=black}
-\setbeamercolor{itemize item}{fg=black}
-\setbeamercolor{itemize subitem}{fg=black}
-\setbeamercolor{enumerate item}{fg=black}
-\setbeamercolor{block title}{fg=white,bg=black}
+\setbeamercolor{itemize item}{fg=beamer@UIUCorange}
+\setbeamercolor{itemize subitem}{fg=beamer@UIUCorange}
+\setbeamercolor{enumerate item}{fg=beamer@UIUCorange}
+\setbeamercolor{block title}{fg=white,bg=beamer@UIUCblue}
 \setbeamercolor{block body}{fg=black,bg=white}
+
 
 % Clean frametitle with a thin rule
 \setbeamertemplate{frametitle}{
