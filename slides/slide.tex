@@ -1,0 +1,145 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+
+% ---------- Theme & colors ----------
+\usetheme{default}
+\usecolortheme{default}
+\setbeamertemplate{navigation symbols}{} % remove navigation icons
+
+% White background everywhere
+\setbeamercolor{background canvas}{bg=white}
+\setbeamercolor{normal text}{fg=black}
+\setbeamercolor{structure}{fg=black}
+\setbeamercolor{frametitle}{fg=black,bg=white}
+\setbeamercolor{title}{fg=black}
+\setbeamercolor{subtitle}{fg=black}
+\setbeamercolor{author}{fg=black}
+\setbeamercolor{date}{fg=black}
+\setbeamercolor{itemize item}{fg=black}
+\setbeamercolor{itemize subitem}{fg=black}
+\setbeamercolor{enumerate item}{fg=black}
+\setbeamercolor{block title}{fg=white,bg=black}
+\setbeamercolor{block body}{fg=black,bg=white}
+
+% Clean frametitle with a thin rule
+\setbeamertemplate{frametitle}{
+  \vspace{0.4em}
+  \insertframetitle\par
+  \vspace{0.2em}
+  \hrule height 0.6pt
+  \vspace{0.4em}
+}
+
+% Footer with author, title, and page number
+\setbeamertemplate{footline}{
+  \hbox{%
+    \begin{beamercolorbox}[wd=.33\paperwidth,ht=2.5ex,dp=1.2ex,leftskip=1em]{author in head/foot}%
+      \usebeamerfont{author in head/foot}\insertshortauthor
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.34\paperwidth,ht=2.5ex,dp=1.2ex,center]{title in head/foot}%
+      \usebeamerfont{title in head/foot}\insertshorttitle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.33\paperwidth,ht=2.5ex,dp=1.2ex,rightskip=1em]{date in head/foot}%
+      \usebeamerfont{date in head/foot}\hfill\insertframenumber/\inserttotalframenumber
+    \end{beamercolorbox}%
+  }%
+  \vspace{0.2em}
+}
+
+% ---------- Metadata ----------
+\title{Your Presentation Title}
+\subtitle{Optional Subtitle}
+\author{Your Name}
+\institute{Your Institution}
+\date{\today}
+
+\begin{document}
+
+% ---------- Title page ----------
+\begin{frame}[plain]
+  \titlepage
+\end{frame}
+
+% ---------- Outline ----------
+\begin{frame}{Outline}
+  \tableofcontents
+\end{frame}
+
+% ---------- Section 1 ----------
+\section{Introduction}
+
+\begin{frame}{Motivation}
+  \begin{itemize}
+    \item First point about the problem.
+    \item Second point with a bit more detail.
+    \item Third point leading to our approach.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Key Idea}
+  \begin{block}{Main Claim}
+    Here is the central idea of the talk in one or two sentences.
+  \end{block}
+  \vspace{0.5em}
+  \begin{enumerate}
+    \item Step one.
+    \item Step two.
+    \item Step three.
+  \end{enumerate}
+\end{frame}
+
+% ---------- Section 2 ----------
+\section{Methods}
+
+\begin{frame}{Pipeline}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \textbf{Input}
+      \begin{itemize}
+        \item Raw data
+        \item Preprocessing
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \textbf{Output}
+      \begin{itemize}
+        \item Trained model
+        \item Evaluation metrics
+      \end{itemize}
+    \end{column}
+  \end{columns}
+  \vspace{1em}
+  \begin{block}{Note}
+    Replace this content with your own.
+  \end{block}
+\end{frame}
+
+\begin{frame}{Results Summary}
+  \begin{table}
+    \centering
+    \begin{tabular}{lcc}
+      \hline
+      Method & Accuracy & Time (s) \\
+      \hline
+      Baseline & 0.81 & 12.4 \\
+      Ours     & 0.93 & 9.8  \\
+      \hline
+    \end{tabular}
+    \caption{Example results table.}
+  \end{table}
+\end{frame}
+
+% ---------- Section 3 ----------
+\section{Conclusion}
+
+\begin{frame}{Conclusion}
+  \begin{itemize}
+    \item Summarize the main contribution.
+    \item Mention limitations and future work.
+    \item End with a clear takeaway.
+  \end{itemize}
+  \vspace{1em}
+  \centering
+  \Large Thank you! Questions?
+\end{frame}
+
+\end{document}
